@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublicadorCsvWebAPITutorial", "PublicadorCsvWebAPITutorial.csproj", "{FE2A7607-112D-49F8-B992-2722BCFBD03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2A7607-112D-49F8-B992-2722BCFBD03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2A7607-112D-49F8-B992-2722BCFBD03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2A7607-112D-49F8-B992-2722BCFBD03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2A7607-112D-49F8-B992-2722BCFBD03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8BF21B-408C-433A-BC64-29FB41B9834A}
+	EndGlobalSection
+EndGlobal
